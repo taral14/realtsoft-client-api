@@ -19,5 +19,7 @@
     "psr-4": {
       "RealtsoftApi\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "require": {}
 }
