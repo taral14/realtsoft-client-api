@@ -1,5 +1,7 @@
 <?php
-class RealtsoftApiClient
+namespace RealtsoftApi;
+
+class Client
 {
     private $key;
 
