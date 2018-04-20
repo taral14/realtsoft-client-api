@@ -21,5 +21,7 @@
         }
     },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "taral14/realtsoft-client-api": "dev-master"
+    }
 }
