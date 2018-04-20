@@ -1,7 +1,7 @@
 {
     "name": "taral14/realtsoft-client-api",
     "description": "PHP class for Realtsoft API",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "realtsoft",
         "api"
