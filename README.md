@@ -9,10 +9,6 @@ An official PHP class for work with Realtsoft API.
 ```sh
 composer require "taral14/realtsoft-client-api @dev"
 ```
-or just add this line to your `composer.json` file:
-```json
-"taral14/realtsoft-client-api": "@dev"
-```
 
 ###  Code example
 ```php
