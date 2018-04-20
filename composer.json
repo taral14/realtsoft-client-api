@@ -20,7 +20,7 @@
             "RealtsoftApi\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "taral14/realtsoft-client-api": "dev-master"
     }
