@@ -1,25 +1,13 @@
 {
-  "name": "taral/realtsoft-client-api",
-  "description": "PHP class for Realtsoft API",
-  "version": "1.0.0",
-  "keywords": [
-    "realtsoft",
-    "api"
-  ],
-  "type": "library",
-  "license": "MIT",
-  "homepage": "https://github.com/taral14/realtsoft-client-api",
-  "authors": [
-    {
-      "name": "taral14",
-      "email": "pasechnikbs@gmail.com"
-    }
-  ],
-  "autoload": {
-    "psr-4": {
-      "RealtsoftApi\\": "src/"
-    }
-  },
-  "minimum-stability": "dev",
-  "require": {}
+    "name": "taral/realtsoft-client-api",
+    "description": "PHP class for Realtsoft API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taral",
+            "email": "pasechnikbs@gmail.com"
+        }
+    ],
+    "require": {}
 }
